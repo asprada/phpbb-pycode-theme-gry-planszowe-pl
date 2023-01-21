@@ -150,6 +150,10 @@
 	text-align: right;
 }
 
+.post-buttons .dropdown-contents {
+    min-width: 200px;
+}
+
 .hasjs .postbody .post-buttons {
 	max-width: 40%;
 }
